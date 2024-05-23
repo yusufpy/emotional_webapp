@@ -2,3 +2,5 @@ torch
 torchvision
 opencv-python
 opencv-python-headless
+tensorflow
+keras
